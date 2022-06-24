@@ -1,0 +1,54 @@
+table {
+    border: 1px solid black;
+    margin-bottom: 60px;
+
+}
+
+body{
+    background-color: azure;
+    font-family: monospace;
+}
+
+.header_props{
+    color: darkorchid;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+td{
+    border-top: 1px solid black;
+    padding: 5px 20px;
+    font-size: 15px;
+
+}
+
+th{
+    padding: 15px;
+    background-color: aquamarine;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+header{
+    font-family: 'Roboto Mono', monospace;
+    font-size: x-large;
+    text-align: center;
+    width: 600px;
+    border-radius: 15px;
+    background-color: beige;
+    border: 1px solid black;
+    margin: 70px auto;
+    margin-top: 30px !important;
+    
+}
+
+
+
+.property{
+    font-style: oblique;
+    color: darkviolet;
+    font-weight: 600;
+    font-size: 16px;
+}
+
